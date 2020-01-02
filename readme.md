@@ -6,7 +6,7 @@
 
 A* algorithm Simulator is a simple graphical user interface that allows to test A* pathfinding.
 
-Place a starting point, a destination points, and some walls then press Search to find a path.
+Place a starting point, a destination point, and some walls then press Search to find a path.
 
 
 
@@ -18,8 +18,8 @@ If you like to draw big mazes and watch an algorithm solve it in milliseconds, t
 
 #### Features
 
-- 4 grid size (XL, L, M, S)
-- Supports 4 and 8 directional search
+- 4 grid sizes (XL, L, M, S)
+- Supports 4 and 8 directions search
 - Very fun
 
 
