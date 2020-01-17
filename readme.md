@@ -26,7 +26,7 @@ If you like to draw big mazes and watch an algorithm solve it in milliseconds, t
 
 Left click to place point or wall.
 Right click to delete a wall or go back a step.
-+ and - to zoom and dezoom grid.
+\+ and - to zoom and dezoom grid.
 
 #### Some screenshots
 
